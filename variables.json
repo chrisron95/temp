@@ -32,9 +32,5 @@
       "f6fbcb79-55cb-4327-766d-555b0e9587f3",
       "8c0aa12c-d5ba-41fe-5edb-cca61c6e9e82",
       "6e3d7ffb-f76b-45ea-53fe-a244d5a3e43c"]
-  },
-  {
-    "names": ["authorization"],
-    "values": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJhZTA3MzE0NC0zNWZmLTQxOTItNDllMy0wN2JlNzlmODAyZTAiLCJzZXNzaW9uX2lkIjoiMTdlNmUxNjgtZTMwMi00OGEzLTZhMmYtZGVmMzFkZDE3N2ExIiwidXNlcl90eXBlIjoxLCJ0ZW5hbnRfaWQiOiJjZTdhNzBhYy1iOGYxLTRkMWItNGU5MS0xOGVhZjMyYjAzYjQiLCJleHAiOjE1MTUyNTU1NzgsImlhdCI6MTUxNTE2OTE3OCwiaXNzIjoiRmluYW5jaWFsQXBwcyIsIm5iZiI6MTUxNTE2OTE3OH0.AqDXdZAS4KbkX3vidqpFbnnUqfEU74dIhqI_eNLGhI4"]
   }]
 }
