@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "variables": [{
+    "names": ["order"],
+    "values": ["0a315873-a69d-4a03-5249-c488324a169a",
+      "d7321ab0-0491-4785-6889-90cd46ad8587",
+      "60785376-e1ea-472b-4983-89e2c5f4f8ce",
+      "38da6462-5003-47c5-7b8e-da1eb2d493ab",
+      "d918d5e3-e95d-4ade-486f-da2750a2fbab",
+      "a96e1d50-3971-4e88-633d-68749dd9bb74",
+      "56454d5d-a060-4d41-786b-30b6cf7d55b5",
+      "33a6aedd-3892-47b3-511d-99eedb2f2341",
+      "8d05b651-2017-4af7-571f-3a4fd0537980",
+      "a110d686-581f-44f3-4e3e-3bc379cc3913",
+      "dbf9da67-4c0e-402c-7780-a5999d009a85",
+      "a611f26e-f1d4-42a5-40e0-300aade8925c",
+      "556114f9-6ffc-4531-443d-e8e7d3aba050",
+      "63071815-7bc4-4c81-61f2-aae9d5777c5c",
+      "84495bd3-f167-4bb1-5859-242c112fe5e8",
+      "cc26bd81-200b-4206-7e2d-c8b42382f631",
+      "e80f22e9-a309-4f4c-5602-f5930e99e369",
+      "c37ce431-6fc1-4b4c-719d-3e8760f98623",
+      "78e43f78-3688-4faa-76db-9d14fa5fbfed",
+      "1cad55aa-ee74-44b1-4843-1cb7b643f014",
+      "6df54be8-8c7f-4eaf-682c-e2c19d701781",
+      "9cbc8148-35a1-42db-5e88-8129195f31f5",
+      "8b9ea2c7-85ac-4c1e-7193-022b5d06b399",
+      "7fec6a18-3527-4543-6e83-fea3cd537560",
+      "fe7a06fc-3a8d-4c46-75e8-54795f8d73ab",
+      "acdf42bc-83ea-4942-5805-d4d2e14c2e47",
+      "e0eef34c-1872-45ee-6a4b-11c0a1f2507a",
+      "f6fbcb79-55cb-4327-766d-555b0e9587f3",
+      "8c0aa12c-d5ba-41fe-5edb-cca61c6e9e82",
+      "6e3d7ffb-f76b-45ea-53fe-a244d5a3e43c"]
+  },
+  {
+    "names": ["authorization"],
+    "values": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJhZTA3MzE0NC0zNWZmLTQxOTItNDllMy0wN2JlNzlmODAyZTAiLCJzZXNzaW9uX2lkIjoiMTdlNmUxNjgtZTMwMi00OGEzLTZhMmYtZGVmMzFkZDE3N2ExIiwidXNlcl90eXBlIjoxLCJ0ZW5hbnRfaWQiOiJjZTdhNzBhYy1iOGYxLTRkMWItNGU5MS0xOGVhZjMyYjAzYjQiLCJleHAiOjE1MTUyNTU1NzgsImlhdCI6MTUxNTE2OTE3OCwiaXNzIjoiRmluYW5jaWFsQXBwcyIsIm5iZiI6MTUxNTE2OTE3OH0.AqDXdZAS4KbkX3vidqpFbnnUqfEU74dIhqI_eNLGhI4"]
+  }]
+}
