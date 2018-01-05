@@ -1,7 +1,7 @@
 {
   "version": 1,
   "variables": [{
-    "names": ["order"],
+    "keys": ["order"],
     "values": ["0a315873-a69d-4a03-5249-c488324a169a",
       "d7321ab0-0491-4785-6889-90cd46ad8587",
       "60785376-e1ea-472b-4983-89e2c5f4f8ce",
@@ -34,7 +34,7 @@
       "6e3d7ffb-f76b-45ea-53fe-a244d5a3e43c"]
   },
   {
-    "names": ["authorization"],
+    "keys": ["authorization"],
     "values": ["Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiJhZTA3MzE0NC0zNWZmLTQxOTItNDllMy0wN2JlNzlmODAyZTAiLCJzZXNzaW9uX2lkIjoiMTdlNmUxNjgtZTMwMi00OGEzLTZhMmYtZGVmMzFkZDE3N2ExIiwidXNlcl90eXBlIjoxLCJ0ZW5hbnRfaWQiOiJjZTdhNzBhYy1iOGYxLTRkMWItNGU5MS0xOGVhZjMyYjAzYjQiLCJleHAiOjE1MTUyNTU1NzgsImlhdCI6MTUxNTE2OTE3OCwiaXNzIjoiRmluYW5jaWFsQXBwcyIsIm5iZiI6MTUxNTE2OTE3OH0.AqDXdZAS4KbkX3vidqpFbnnUqfEU74dIhqI_eNLGhI4"]
   }]
 }
